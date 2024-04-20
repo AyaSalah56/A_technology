@@ -1,0 +1,160 @@
+.f_12 {
+    font-size: 12px;
+}
+
+.card {
+    width: 490px;
+    border-radius: 7.83px 0px 0px 0px;
+}
+
+.Hicon {
+    width: 26px;
+    height: 26px;
+    border-radius: 6px;
+}
+
+.vector_icon {
+    width: 32px;
+    height: 32px;
+}
+
+.user_icon {
+    width: 24px;
+    height: 24px;
+}
+
+.x_icon {
+    width: 22px;
+    height: 22px;
+    border-radius: 4.89px 0px 0px 0px;
+    background: #F4F4F4;
+}
+
+.radius_6 {
+    border-radius: 6px;
+}
+
+.f-10 {
+    font-size: 10px;
+}
+
+.f-8 {
+    font-size: 8px;
+}
+
+.select_client {
+    border-style: dashed;
+    border-radius: 8px;
+    border-width: 1px;
+    border-color: #0771DE;
+}
+
+.first_input input[type=text]::placeholder {
+    font-size: 7px;
+    color: #83899F;
+    padding-inline: 10px;
+}
+
+.first_input i {
+    position: absolute;
+    left: 12px;
+    top: 7px;
+    color: #0771DE;
+}
+
+.sec_input input[type=text]::placeholder {
+    font-size: 14px;
+    color: #83899F;
+    text-align: center;
+}
+
+.probabilty_icon {
+    width: 20px;
+    height: 20px;
+    border: 0.5px #E0E0E0 solid;
+    border-radius: 5px;
+
+}
+
+.percentages {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 2px;
+    font-size: 10px;
+}
+
+
+.x_icon
+{
+    transition: 0.4s;
+}
+.x_icon:hover
+{
+  background-color: rgb(207, 204, 204);
+}
+
+.user_icon {
+    width: 24px;
+    height: 25px;
+}
+
+.python_icon {
+    width: 20px;
+    height: 20px;
+    background: #00AD8D;
+}
+
+.instgram_icon {
+    width: 20px;
+    height: 20px;
+    background-color: white;
+    border-radius: 6px !important;
+}
+
+::ng-deep .p-chips-token:first-child {
+    background-color: #dd6c2038;
+    color: #dd6c20;
+}
+
+.arrow
+{
+    border-right: solid white 1px;
+}
+
+
+::ng-deep .p-chips-token:nth-child(2) {
+    background-color: #38A1691A;
+    color: #38A169;
+
+}
+
+::ng-deep .p-chips-token:nth-child(3) {
+    background-color: #5B4FE91A;
+    color: #5B4FE9;
+
+}
+
+::ng-deep .p-chips-token:nth-child(4) {
+    background-color: #7180961A;
+    color: #718096;
+}
+
+.add-circle {
+    color: #0771DE;
+}
+
+sec5 .container {
+    margin-bottom: 0px !important;
+}
+
+.last1_btn
+{
+    border-radius: 0px 6px 6px 0px;
+    border-left: 1px;
+    border-color: white;
+}
+
+.last_btn
+{
+    border-radius: 6px 0px 0px 6px;
+}

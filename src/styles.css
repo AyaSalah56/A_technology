@@ -1,0 +1,57 @@
+@font-face {
+    font-family: 'Neo Sans Arabic';
+    src: url('./assets/font/Neo Sans Arabic Regular.ttf'),
+}
+
+p,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+ul {
+    padding: 0 !important;
+    margin: 0% !important;
+}
+
+body {
+    font-family: 'Neo Sans Arabic';
+}
+
+@import "primeng/resources/themes/lara-light-blue/theme.css";
+@import "primeng/resources/primeng.css";
+
+.p-chips .p-chips-multiple-container .p-chips-token {
+    font-size: 12px;
+    padding: 2px 8px 2px 8px;
+    border-radius: 6px 0px 0px 0px;
+}
+
+.p-chips-multiple-container {
+    flex-wrap: nowrap;
+}
+
+.cursor-pointer
+{
+    cursor: pointer;
+}
+
+.card-body
+{
+    padding-bottom: 2px;
+}
+
+.p-chips .p-chips-multiple-container {
+    padding: 0% !important;
+}
+
+ul
+{
+    margin: 5px;
+}
+
+.p-chips
+{
+    display: block !important;
+}
